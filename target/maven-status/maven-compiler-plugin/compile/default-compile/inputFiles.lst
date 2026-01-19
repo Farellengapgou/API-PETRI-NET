@@ -20,6 +20,10 @@ F:\backend\API-PETRI-NET\src\main\java\com\yowyob\petrinet\persistence\entity\Pe
 F:\backend\API-PETRI-NET\src\main\java\com\yowyob\petrinet\persistence\entity\PlaceEntity.java
 F:\backend\API-PETRI-NET\src\main\java\com\yowyob\petrinet\persistence\entity\TokenEntity.java
 F:\backend\API-PETRI-NET\src\main\java\com\yowyob\petrinet\persistence\entity\TransitionEntity.java
+F:\backend\API-PETRI-NET\src\main\java\com\yowyob\petrinet\persistence\repository\ArcRepository.java
 F:\backend\API-PETRI-NET\src\main\java\com\yowyob\petrinet\persistence\repository\PetriNetRepository.java
+F:\backend\API-PETRI-NET\src\main\java\com\yowyob\petrinet\persistence\repository\PlaceRepository.java
+F:\backend\API-PETRI-NET\src\main\java\com\yowyob\petrinet\persistence\repository\TokenRepository.java
+F:\backend\API-PETRI-NET\src\main\java\com\yowyob\petrinet\persistence\repository\TransitionRepository.java
 F:\backend\API-PETRI-NET\src\main\java\com\yowyob\petrinet\PetriNetApplication.java
 F:\backend\API-PETRI-NET\src\main\java\com\yowyob\petrinet\service\PetriNetService.java

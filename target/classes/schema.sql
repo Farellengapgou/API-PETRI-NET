@@ -1,7 +1,7 @@
 CREATE TABLE IF NOT EXISTS petri_nets (
     id UUID PRIMARY KEY,
     name VARCHAR(255) NOT NULL,
-    current_time BIGINT NOT NULL DEFAULT 0
+    current_net_time BIGINT NOT NULL DEFAULT 0
 );
 
 CREATE TABLE IF NOT EXISTS petri_places (
