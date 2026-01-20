@@ -6,9 +6,9 @@ spring:
     name: petri-net-api
   
   r2dbc:
-    url: r2dbc:postgresql://localhost:5432/pickndrop_db
-    username: postgres
-    password: jeff1234
+    url: r2dbc:postgresql://${DB_HOST:localhost}:${DB_PORT:5432}/${DB_NAME:pickndrop_db}
+    username: ${DB_USER:postgres}
+    password: ${DB_PASSWORD:jeff1234}
     pool:
       initial-size: 5
       max-size: 10
